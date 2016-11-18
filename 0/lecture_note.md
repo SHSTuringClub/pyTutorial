@@ -10,7 +10,7 @@
    * ~~因为学好 Python 能够 py 交易！~~
    * 忘了这些吧，你都来上课了是不是……
 
-2. 怎么写Python
+2. 怎么写 Python
 
    * 首先，你要装个 Python。
    * [Python 下载地址，注意选择当前最新版本。本文成时为3.5.2](https://www.python.org)
