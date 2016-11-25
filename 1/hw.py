@@ -12,7 +12,7 @@
 # and print a list of their name.
 
 import json
-passengers = json.load(fp.open('data.json')) # Remember to download "data.json" in the folder
+passengers = json.load(open('data.json')) # Remember to download "data.json" in the folder
 
 ####################################################################
 # Your code begins here.                                           #
